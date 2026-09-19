@@ -17,13 +17,6 @@ npm run dev
 
 Open http://localhost:5173
 
-## Login (local)
-
-After Core MVP setup, local test user:
-
-- Email: `subadmin1@rawabi.com`
-- Password: `admin123` (md5 in `ec_user.password`)
-
 ## Env
 
 Copy `.env.example` → `.env`:
@@ -31,4 +24,5 @@ Copy `.env.example` → `.env`:
 ```
 VITE_API_URL=http://127.0.0.1:8000
 ```
-# rawabi-shopping-admin-portal
+
+Use an existing `ec_user` admin account from your local database to sign in. Do not commit passwords or test credentials.
