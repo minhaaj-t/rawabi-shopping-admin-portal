@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="Ramadan splash">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <circle cx="140" cy="160" r="3" fill="#fde68a"/><circle cx="580" cy="210" r="2" fill="#fde68a"/>
+  <circle cx="620" cy="460" r="3" fill="#fde68a"/><circle cx="100" cy="520" r="2.5" fill="#fde68a"/>
+  <path fill="#fbbf24" d="M420 360c-96 14-170 96-170 196s74 182 170 196c-120-10-214-108-214-228s94-218 214-164z"/>
+  <path fill="#fde68a" d="M330 620h28v90h-28zm56 24h28v66h-28zm-112 12h28v78h-28z"/>
+  <path fill="#fbbf24" d="M302 620h140v14H302zm56-48l26-42 26 42z"/>
+  <text x="360" y="820" text-anchor="middle" fill="#fde68a" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Ramadan Kareem</text>
+  <text x="360" y="870" text-anchor="middle" fill="#c7d2fe" font-family="Segoe UI, Arial, sans-serif" font-size="22">1E6'F C1JE</text>
+</svg>

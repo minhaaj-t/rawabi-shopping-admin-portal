@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="Summer splash">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <circle cx="360" cy="480" r="90" fill="#fef3c7"/>
+  <g stroke="#fef3c7" stroke-width="16" stroke-linecap="round" transform="translate(360 480)">
+    <path d="M0 -160v40M0 120v40M-160 0h40M120 0h40M-112 -112l28 28M84 84l28 28M-112 112l28-28M84 -84l28-28"/>
+  </g>
+  <text x="360" y="720" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Summer Fresh</text>
+  <text x="360" y="770" text-anchor="middle" fill="#ffedd5" font-family="Segoe UI, Arial, sans-serif" font-size="22">Sunny deals &amp; cool bites</text>
+</svg>

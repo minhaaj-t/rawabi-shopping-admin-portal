@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="Classic splash">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e8f6ec"/>
+      <stop offset="100%" stop-color="#2b8f43"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <circle cx="360" cy="520" r="150" fill="#fff" opacity=".95"/>
+  <path fill="#2b8f43" d="M390 420c-30 16-52 48-56 86-25-16-40-43-41-73-45 55-30 132 30 170 41 25 91 25 130-2 46-32 64-93 43-145-25 21-64 25-106-36z"/>
+  <text x="360" y="760" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Rawabi</text>
+  <text x="360" y="810" text-anchor="middle" fill="#e8f6ec" font-family="Segoe UI, Arial, sans-serif" font-size="22">Fresh for every day</text>
+</svg>

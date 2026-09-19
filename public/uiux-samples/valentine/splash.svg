@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="Valentine splash">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff1f2"/>
+      <stop offset="100%" stop-color="#be123c"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <path fill="#fff" d="M360 620s-150-92-150-200c0-58 46-96 96-96 30 0 54 16 54 16s24-16 54-16c50 0 96 38 96 96 0 108-150 200-150 200z"/>
+  <text x="360" y="780" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Valentine Specials</text>
+  <text x="360" y="830" text-anchor="middle" fill="#fecdd3" font-family="Segoe UI, Arial, sans-serif" font-size="22">Gifts &amp; sweet treats</text>
+</svg>

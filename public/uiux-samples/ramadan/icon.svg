@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ramadan Kareem">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <path fill="#fbbf24" d="M300 110c-72 12-128 74-128 150s56 138 128 150c-90-8-160-82-160-174s70-166 160-126z"/>
+  <path fill="#fde68a" d="M250 300h20v70h-20zm40 20h20v50h-20zm-80 10h20v60h-20z"/>
+  <path fill="#fbbf24" d="M230 300h100v12H230zm40-40l20-34 20 34z"/>
+  <circle cx="360" cy="150" r="4" fill="#fde68a"/><circle cx="400" cy="200" r="3" fill="#fde68a"/>
+  <circle cx="140" cy="180" r="2.5" fill="#fde68a"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Qatar National Day">
+  <rect width="512" height="512" rx="112" fill="#8a1538"/>
+  <path fill="#fff" d="M0 112h210l-34 36 34 36-34 36 34 36-34 36 34 36-34 36 34 36H0z"/>
+  <circle cx="340" cy="256" r="54" fill="#fff" opacity=".15"/>
+  <text x="340" y="268" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">18</text>
+</svg>

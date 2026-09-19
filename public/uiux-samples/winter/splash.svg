@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="Winter splash">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e0f2fe"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <circle cx="120" cy="160" r="6" fill="#fff" opacity=".9"/><circle cx="560" cy="220" r="4" fill="#fff"/>
+  <circle cx="640" cy="420" r="5" fill="#fff" opacity=".8"/><circle cx="90" cy="480" r="3" fill="#fff"/>
+  <circle cx="400" cy="140" r="4" fill="#fff"/><circle cx="300" cy="300" r="5" fill="#fff" opacity=".7"/>
+  <g transform="translate(360 560)" stroke="#fff" stroke-width="14" stroke-linecap="round" fill="none">
+    <path d="M0 -120v240M-96 -56l192 112M-96 56l192-112"/>
+    <circle cx="0" cy="0" r="16" fill="#fff" stroke="none"/>
+  </g>
+  <text x="360" y="780" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Winter Fresh</text>
+  <text x="360" y="830" text-anchor="middle" fill="#e0f2fe" font-family="Segoe UI, Arial, sans-serif" font-size="22">Cozy seasonal picks</text>
+</svg>

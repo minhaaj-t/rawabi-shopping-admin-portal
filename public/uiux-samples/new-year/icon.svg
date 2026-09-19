@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="New Year">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <path fill="#fbbf24" d="M256 120l28 86h90l-72 52 28 86-74-54-74 54 28-86-72-52h90z"/>
+  <circle cx="140" cy="180" r="5" fill="#f472b6"/><circle cx="390" cy="160" r="4" fill="#34d399"/>
+  <circle cx="400" cy="340" r="5" fill="#60a5fa"/><circle cx="130" cy="360" r="4" fill="#fbbf24"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Classic Rawabi">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2b8f43"/>
+      <stop offset="100%" stop-color="#1f6b32"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <circle cx="256" cy="256" r="150" fill="#fff" opacity=".12"/>
+  <path fill="#fff" d="M286 140c-34 18-58 54-62 96-28-18-44-48-46-82-50 62-34 148 34 190 46 28 102 28 146-2 52-36 72-104 48-162-28 24-72 28-120-40z"/>
+  <circle cx="318" cy="168" r="18" fill="#f5c518"/>
+</svg>

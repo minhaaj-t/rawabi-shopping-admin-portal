@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="Eid Mubarak splash">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f3d2e"/>
+      <stop offset="100%" stop-color="#1a6b4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <circle cx="120" cy="180" r="3" fill="#f5c518"/><circle cx="560" cy="220" r="2.5" fill="#f5c518"/>
+  <circle cx="640" cy="420" r="3" fill="#f5c518"/><circle cx="90" cy="480" r="2" fill="#f5c518"/>
+  <circle cx="400" cy="140" r="2" fill="#f5c518"/>
+  <path fill="#f5c518" d="M410 360c-90 12-160 90-160 184s70 172 160 184c-110-10-196-102-196-214s86-204 196-154z"/>
+  <path fill="#f5c518" d="M448 410l12 36h38l-30 22 12 36-32-22-32 22 12-36-30-22h38z"/>
+  <text x="360" y="720" text-anchor="middle" fill="#f5c518" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Eid Mubarak</text>
+  <text x="360" y="770" text-anchor="middle" fill="#d7f0e4" font-family="Segoe UI, Arial, sans-serif" font-size="22">9J/ E('1C</text>
+</svg>

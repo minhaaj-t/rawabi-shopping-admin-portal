@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="National Day splash">
+  <rect width="720" height="1280" fill="#8a1538"/>
+  <path fill="#fff" d="M0 0h250l-40 45 40 45-40 45 40 45-40 45 40 45-40 45 40 45-40 45 40 45-40 45 40 45-40 45 40 45-40 45 40 45-40 45 40 45H0z"/>
+  <text x="460" y="560" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">18</text>
+  <text x="460" y="640" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="650">December</text>
+  <text x="360" y="820" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">Qatar National Day</text>
+  <text x="360" y="870" text-anchor="middle" fill="#f9d5df" font-family="Segoe UI, Arial, sans-serif" font-size="22">'DJHE 'DH7FJ</text>
+</svg>

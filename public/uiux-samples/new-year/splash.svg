@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" role="img" aria-label="New Year splash">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <circle cx="120" cy="180" r="5" fill="#f472b6"/><circle cx="580" cy="220" r="4" fill="#34d399"/>
+  <circle cx="640" cy="480" r="5" fill="#60a5fa"/><circle cx="90" cy="520" r="4" fill="#fbbf24"/>
+  <path fill="#fbbf24" d="M360 380l40 120h126l-102 74 40 120-104-76-104 76 40-120-102-74h126z"/>
+  <text x="360" y="780" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Happy New Year</text>
+  <text x="360" y="830" text-anchor="middle" fill="#ddd6fe" font-family="Segoe UI, Arial, sans-serif" font-size="22">Celebrate with Rawabi</text>
+</svg>

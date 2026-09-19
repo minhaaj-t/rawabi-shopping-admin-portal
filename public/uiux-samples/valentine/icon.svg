@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Valentine">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fb7185"/>
+      <stop offset="100%" stop-color="#be123c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <path fill="#fff" d="M256 390s-120-74-120-160c0-46 36-76 76-76 24 0 44 12 44 12s20-12 44-12c40 0 76 30 76 76 0 86-120 160-120 160z"/>
+  <circle cx="256" cy="250" r="18" fill="#fb7185" opacity=".35"/>
+</svg>
